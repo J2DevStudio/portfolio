@@ -3,3 +3,8 @@ body {
     background: grey;
     text-align: center;
 }
+
+h1 {
+    text-shadow: lightslategray;
+    text-size-adjust: ;
+}
